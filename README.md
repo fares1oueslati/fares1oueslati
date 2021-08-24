@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @fares1oueslati
 - 👀 I’m interested in Digital Marketing, Coding and IOT
 - 🌱 I’m currently learning Front-End Web Developping
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach    oueslati.feres@etudiant-fsegt.utm.tn
 
 
